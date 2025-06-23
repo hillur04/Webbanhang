@@ -31,4 +31,4 @@ Mục tiêu của dự án là khám phá và ghi lại các phương pháp tố
 Clone repository này về máy tính của bạn để bắt đầu đóng góp:
 
 ```bash
-git clone https://github.com/ledaithanhlong/software-technology-project.git
+git clone https://github.com/hillur04/Webbanhang.git
